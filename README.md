@@ -28,3 +28,4 @@ IntelliJ - Spring Boot
 * DB 데이터 삽입/출력
 * NaverApi 사용하여 블로그 검색
 * 직장인들의 점심 메뉴를 책임져줄 랜덤 메뉴 
+AWS - ubuntu 를 이용해 서버열기 - http://15.164.9.10:8080/
