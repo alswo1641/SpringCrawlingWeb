@@ -1,6 +1,8 @@
 # SpringCrawling
 2022/06/23 ~ 2022/07/20 경남정보대학교 특강 프로젝트
 
+### Main
+![image](https://user-images.githubusercontent.com/101167081/191434131-e132ea42-665c-4085-beaf-8b10b731d6e6.png)
 
 # Dependency
 IntelliJ - Spring Boot
